@@ -1,2 +1,3 @@
 # calculator_1
-learning js
+Learning JavaScript from [tutorial](https://youtu.be/j59qQ7YWLxw)
+
