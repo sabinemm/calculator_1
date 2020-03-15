@@ -1,3 +1,2 @@
-# calculator_1
-Learning JavaScript from [tutorial](https://youtu.be/j59qQ7YWLxw)
-
+# JavaScript Calculator
+Learning how to make a basic JavaScript calculator from this [tutorial](https://youtu.be/qQEYAOPWDzk) with form input.
