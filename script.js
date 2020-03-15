@@ -1,4 +1,4 @@
-function cal() {
+function calc() {
     let a = parseInt(document.querySelector("#value1").value);
     let b = parseInt(document.querySelector("#value2").value);
     let op = document.querySelector("#operator").value;
@@ -13,4 +13,6 @@ function cal() {
     } else if (op == "mul") {
         calculate = a * b;
     }
+
+    console.log(calculate);
 }
